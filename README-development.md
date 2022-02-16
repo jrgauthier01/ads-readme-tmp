@@ -15,7 +15,7 @@ models to/from the catalog.
 - [Oracle Accelerated Data Science SDK (ADS) Documentation][ads-documentation]
 - [Oracle Cloud Infrastructure Data Science and AI services Examples][oci-data-science-ai-samples]
 
-# Get Support
+## Get Support
 
 - Open a [GitHub issue][issues] for bug reports, questions, or requests for enhancements
 - Report a security vulnerability according to the [Reporting Vulnerabilities guide][reporting-vulnerabilities]
