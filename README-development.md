@@ -12,8 +12,11 @@ models to/from the catalog.
 
 ## Documentation
 
-- [Oracle Accelerated Data Science SDK (ADS) Documentation][ads-documentation]
-- [Oracle Cloud Infrastructure Data Science and AI services Examples][oci-data-science-ai-samples]
+ - [ads-documentation](https://docs.oracle.com/en-us/iaas/tools/ads-sdk/latest/index.html)
+ - [oci-data-science-ai-samples](https://github.com/oracle/oci-data-science-ai-samples)
+ - [issues](https://github.com/oracle/accelerated-data-science/issues)
+ - [reporting-vulnerabilities](https://www.oracle.com/corporate/security-practices/assurance/vulnerability/reporting.html)
+ - [cli-configuration-file](https://docs.cloud.oracle.com/Content/API/Concepts/sdkconfig.htm)
 
 ## Get Support
 
