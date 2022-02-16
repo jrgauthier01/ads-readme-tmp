@@ -1,6 +1,6 @@
 # Oracle Accelerated Data Science SDK (ADS)
 
-The Oracle Accelerated Data Science (ADS) SDK is maintained by the Oracle Data Science team. It speeds up common data science activities by providing tools that automate and/or simplify common data science tasks, along with providing a data scientist friendly pythonic interface to Oracle Cloud Infrastructure (OCI) services.
+The Oracle Accelerated Data Science (ADS) SDK is maintained by the Oracle Cloud Infrastructure Data Science service. It speeds up common data science activities by providing tools that automate and/or simplify common data science tasks, along with providing a data scientist friendly pythonic interface to Oracle Cloud Infrastructure (OCI) services.
 
 With ADS you can:
 
