@@ -10,7 +10,7 @@ data visualization, feature engineering, model training, model evaluation and
 model interpretation. ADS also allows you to connect to the model catalog to save/load
 models to/from the catalog.
 
-# Documentation
+## Documentation
 
 - [Oracle Accelerated Data Science SDK (ADS) Documentation][ads-documentation]
 - [Oracle Cloud Infrastructure Data Science and AI services Examples][oci-data-science-ai-samples]
