@@ -111,8 +111,7 @@ Multiple extra dependencies can be installed together. For example:
       """,
       bind_variables={
           max_rows : 100
-      }
-      ,
+      },
       connection_parameters=connection_parameters,
   )
 ```
